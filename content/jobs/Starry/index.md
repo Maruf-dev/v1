@@ -1,12 +1,12 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2021-01-21'
+title: ' Front-End Engineer'
+company: 'Code Vision'
+location: 'Jizzakh, UZ'
+range: 'January - September 2021'
+url: 'https://codevision.uz/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Developed responsive and user-friendly web pages using React resulting in a 15% increase in user engagement.
+- Improved website load time by 20%.Collaborated with designers to implement pixel-perfect designs and ensure a consistent user experience across different browsers and devices.
+- Implemented front-end unit tests to maintain code quality and improve the stability of web applications. Eager to learn and grow my skills in a fast-paced development environment.

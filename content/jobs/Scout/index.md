@@ -1,11 +1,11 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2020-04-01'
+title: 'Front-End Developer'
+company: 'Bizzone group'
+location: 'Bizzone group office'
+range: 'Spring 2020 & fall 2020'
+url: 'https://bizzone.uz/'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript.
+- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness

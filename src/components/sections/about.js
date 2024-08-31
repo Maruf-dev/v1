@@ -146,9 +146,9 @@ const About = () => {
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.teamit.uz//">Teamit academy</a>,{' '}
               <a href="https://kitobland.uz/">a start-up</a>,{' '}
-              <a href="https://jizzakhps.uz/">a Presidential School</a>, and also I had been working
-              as a Project manager at sevelar projects. My main focus these days is building
-              accessible, inclusive products and digital experiences at{' '}
+              <a href="https://bizzone.uz/">a Bizzone group</a>, and also I had been working as a
+              Project manager at sevelar projects. My main focus these days is building accessible,
+              inclusive products and digital experiences at{' '}
               <a href="https://codevision.uz/">Codevision</a> for a variety of clients.
             </p>
             <p>Here are a few technologies I’ve been working with recently:</p>
