@@ -3,9 +3,9 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Maruf Erkinov',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    siteUrl: 'https://itsmaroof.uz', // No trailing slash allowed!
+    image: '/static/og.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@freemaroof',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Maruf Erkinov',
+        short_name: 'Maruf Erkinov',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
