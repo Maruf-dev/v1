@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Maruf Erkinov',
     siteUrl: 'https://itsmaroof.uz', // No trailing slash allowed!
-    image: '/public/static/og.png', // Path to your image you placed in the 'static' folder
+    image: '/static/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@freemaroof',
   },
   plugins: [
