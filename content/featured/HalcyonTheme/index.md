@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Saas Landing Page'
+cover: './saas.png'
+github: 'https://github.com/Maruf-dev/SaaS-landing'
+external: 'https://saas-land1ng.netlify.app/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React.js
+  - Next.js
+  - framer-motion
+  - Tailwind
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Journey to Success
+Embrace the satisfaction of achievement with an app crafted to help you monitor your progress, boost motivation, and celebrate every milestone along the way.
