@@ -127,7 +127,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Node.js', 'Next.js', 'Python'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -145,7 +145,7 @@ const About = () => {
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.teamit.uz//">Teamit academy</a>,{' '}
-              <a href="https://kitobland.uz/">a start-up</a>,{' '}
+              <a href="https://bandup.uz/">a start-up</a>,{' '}
               <a href="https://bizzone.uz/">a Bizzone group</a>, and also I had been working as a
               Project manager at sevelar projects. My main focus these days is building accessible,
               inclusive products and digital experiences at{' '}
